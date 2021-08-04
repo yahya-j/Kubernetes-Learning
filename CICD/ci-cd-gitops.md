@@ -476,7 +476,7 @@ Vous utiliserez ces spécifications dans la suite de l'exercice afin de déploye
 
 ## 5. ArgoCD
 
-[ArgoCD](https://argoproj.github.io/argo-cd/) est un projet de la [CNCF](https://cncf.io), actuellement dans l'état *Incubating*. ArgoCD est utilisé pour effectuer du Continuous Delivery dans un cluster Kubernetes, il met en avant une approche *GitOps* que nous allons illustrer dans la suite.
+[ArgoCD](https://argoproj.github.io/argo-cd/) est un projet de la [CNCF](https://cncf.io). ArgoCD est utilisé pour effectuer du Continuous Delivery dans un cluster Kubernetes, il met en avant une approche *GitOps* que nous allons illustrer dans la suite.
 
 ### Installation
 
