@@ -233,7 +233,7 @@ git commit -m "Initial commit"
 git push -u origin master
 ```
 
-![Gitlab](./images/gitlab_project-3.png)
+
 
 ### 2.2. Mise en place d'un pipeline d'intégration continue
 
