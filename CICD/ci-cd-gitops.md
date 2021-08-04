@@ -221,7 +221,7 @@ $ docker rm -f api
 
 Suivez les instructions présentées dans la section "Push an existing folder" afin de pusher votre projet dans ce repository GitLab. 
 
-![Gitlab](./images/gitlab_project-2.png)
+
 
 Il sera nécessaire de lancer les commandes suivantes depuis le folder *api* créé précédemment. :fire: Assurez-vous de remplacer *GITLAB_USER* par votre nom d'utilisateur
 
