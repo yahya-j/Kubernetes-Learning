@@ -720,6 +720,5 @@ Hello!
 
 Cet exercice met en évidence l'approche *GitOps* qui considère Git comme le référentiel (Source of Trust): une application tournant dans un cluster doit constamment refléter les spécifications présentes dans Git.
 
-Nous avons vu un aperçu de [ArgoCD](https://argoproj.github.io/argo-cd/), l'un des outils phares utilisés dans cette approche GitOps. D'autres outils existent, comme [FluxCD](https://fluxcd.io/) un projet Incubating de la CNCF. N'hésitez notamment à refaire cet exercice à l'aide de FluxCD si vous le souhaitez.
+Nous avons vu un aperçu de [ArgoCD](https://argoproj.github.io/argo-cd/), l'un des outils phares utilisés dans cette approche GitOps. D'autres outils existent, comme [FluxCD](https://fluxcd.io/) un projet Incubating de la CNCF. N'hésitez pas notamment à refaire cet exercice à l'aide de FluxCD si vous le souhaitez.
 
-L'approche *GitOps* est une grande tendance qui s'est dessinée ces quelques dernières années. Je vous encourage à regarder l'écosystème *GitOps* de plus près, vous trouverez plus d'information sur [https://www.gitops.tech/](https://www.gitops.tech/).
